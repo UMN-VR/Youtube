@@ -1,24 +1,16 @@
 [https://umn-vr.github.io](https://umn-vr.github.io)
 
-# GoldyDog 
+# UMN-VR Youtube 
 
-<iframe src="https://poly.cam/capture/64365421-F546-46C2-90AB-B86434DDAE5A" title="polycam capture viewer" style="height:60vmin;width:100%;max-height:720px;max-width:1280px;min-height:280px;min-width:280px" frameborder="0"></iframe>
-## About
-
-This project was started in 2020 by Felipe Galindo. It is a custom implementation of a Boston dynamics inspired spotMicro Robot.
-
-Initially I printed a robot from this thingverse repository and physically sanded down things so it would fit together. 
-
-The first versions were printed in PLA and were heavy, and inefficient. The latest implementation features low in-fill PETG, TPU, & Copper-filled contraction and is able to walk in somewhat unpredictable environments. 
-
-## Versions
-
-### V0:
-First assembled version, could not get get electronics to work and they blew up after only working for seconds. 
-
-### V1:
+<div class="tagembed-container" style=" width:560%;height:100%;overflow: auto;"><div class="tagembed-socialwall" data-wall-id="44530" view-url="https://widget.tagembed.com/44530?view">  </div> <script src="//widget.tagembed.com/embed.min.js" type="text/javascript"></script></div>
 
 
+<iframe width="100%" height="615" src="https://www.youtube.com/embed/_vy5MKZzaGs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
+<iframe width="100%" height="615" src="https://www.youtube.com/embed/yX52vTmb2IM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="100%" height="815" frameborder="0" src="https://datastudio.google.com/embed/reporting/016e6d8d-05f6-4d64-9814-4486abb10e84/page/JgD" frameborder="0" style="border:0" allowfullscreen></iframe>
+[https://datastudio.google.com/embed/reporting/016e6d8d-05f6-4d64-9814-4486abb10e84/page/JgD](https://datastudio.google.com/embed/reporting/016e6d8d-05f6-4d64-9814-4486abb10e84/page/JgD)
 
 [https://umn-vr.github.io](https://umn-vr.github.io)
